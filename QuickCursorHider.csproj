@@ -62,5 +62,9 @@
     <None Include="install.sh" />
     <None Include="QuickCursorHider.version" />
     <None Include="README.md" />
+    <None Include="GameData\QuickCursorHider\COPYING" />
+    <None Include="GameData\QuickCursorHider\QuickCursorHider.version" />
+    <None Include="GameData\QuickCursorHider\README.md" />
+    <None Include="GameData\QuickCursorHider\Plugins\QuickCursorHider.dll" />
   </ItemGroup>
 </Project>
