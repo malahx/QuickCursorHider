@@ -53,9 +53,6 @@
     <Reference Include="UnityEngine">
       <HintPath>..\lib\Managed\UnityEngine.dll</HintPath>
     </Reference>
-    <Reference Include="KSPUtil">
-      <HintPath>..\lib\Managed\KSPUtil.dll</HintPath>
-    </Reference>
   </ItemGroup>
   <ItemGroup>
     <None Include="COPYING" />
