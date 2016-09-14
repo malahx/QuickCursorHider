@@ -1,27 +1,27 @@
 {
 	"NAME"				: "QuickCursorHider",
 	"URL"				: "https://raw.githubusercontent.com/malahx/QuickCursorHider/master/QuickCursorHider.version",
-	"CHANGE_LOG_URL"	: "https://raw.githubusercontent.com/malahx/QuickCursorHider/master/README.md", 
+	"CHANGE_LOG_URL"		: "https://raw.githubusercontent.com/malahx/QuickCursorHider/master/README.md", 
 	"DOWNLOAD"			: "https://github.com/malahx/QuickCursorHider/releases",
 	"VERSION": {
 		"MAJOR"			: 1,
 		"MINOR"			: 0,
-		"PATCH"			: 0,
+		"PATCH"			: 1,
 		"BUILD"			: 0
 	},
-    "KSP_VERSION": {
-        "MAJOR"			: 1,
-        "MINOR"			: 1,
-        "PATCH"			: 3
-    },
-    "KSP_VERSION_MIN": {
-        "MAJOR"			: 1,
-        "MINOR"			: 1,
-        "PATCH"			: 0
-    },
-    "KSP_VERSION_MAX": {
-        "MAJOR"			: 1,
-        "MINOR"			: 1,
-        "PATCH"			: 99
-    }
+	"KSP_VERSION": {
+		"MAJOR"			: 1,
+		"MINOR"			: 2,
+		"PATCH"			: 0
+	},
+	"KSP_VERSION_MIN": {
+		"MAJOR"			: 1,
+		"MINOR"			: 2,
+		"PATCH"			: 0
+	},
+	"KSP_VERSION_MAX": {
+		"MAJOR"			: 1,
+		"MINOR"			: 2,
+		"PATCH"			: 99
+	}
 }
